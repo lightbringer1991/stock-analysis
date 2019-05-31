@@ -1,0 +1,25 @@
+{
+  "name": "stock-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightbringer1991/stock-analysis.git"
+  },
+  "author": "lightbringer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightbringer1991/stock-analysis/issues"
+  },
+  "homepage": "https://github.com/lightbringer1991/stock-analysis#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "minimist": "^1.2.0",
+    "puppeteer": "^1.17.0"
+  }
+}
